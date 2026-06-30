@@ -1,6 +1,7 @@
 # FUTURE_PE_01
 
 ## Prompt Engineering Internship
+![Brew Haven Café Banner](assets/cafe-banner.png)
 
 ### Task 1
 
