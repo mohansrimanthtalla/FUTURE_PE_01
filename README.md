@@ -10,25 +10,36 @@ AI Website Copy Generator for Local Businesses
 Business Selected:
 **Brew Haven Café**
 
-## Project Overview
 
-This project demonstrates the use of prompt engineering to generate professional website copy for a local business using AI.
+## 📌 Project Overview
 
-## Files
+This project demonstrates how Prompt Engineering can be used to generate professional website copy for a local business using AI.
 
+### 🎯 Objective
+
+Generate high-quality, conversion-focused website content for a modern coffee shop.
+
+### 🛠️ AI Tools Used
+
+- ChatGPT
+- GitHub
+- Markdown
+
+### 📂 Repository Structure
+
+- README.md
 - homepage.md
 - services.md
 - cta.md
 - prompts.md
+- output.md
+- assets/cafe-banner.png
 
-## AI Tool
-
-ChatGPT
-
-## Skills Learned
+### 🚀 Skills Demonstrated
 
 - Prompt Engineering
-- Website Copywriting
 - AI Content Generation
-- Structured Prompt Design
+- Website Copywriting
 - Documentation
+- GitHub
+
